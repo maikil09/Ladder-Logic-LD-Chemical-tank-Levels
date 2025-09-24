@@ -1,4 +1,4 @@
-PLC – Tank Level Monitoring  
+# PLC – Tank Level Monitoring  
 
 Este repositorio contiene el desarrollo del proyecto de la simulación del monitoreo automático de niveles de tanque mediante PLC, realizado con **CODESYS** y validado en **OpenPLC** con hardware real.  
 
